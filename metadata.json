@@ -1,0 +1,6 @@
+{
+  "name": "Rufaidah IT Academy",
+  "description": "Rufaidah IT Academy - Independent digital learning platform featuring Basic Computer skills, SSC ICT, interactive Touch Typing Master, and student-owned progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

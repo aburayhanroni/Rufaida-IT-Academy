@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="emeraldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="112" fill="url(#emeraldGrad)"/>
+  <!-- Graduation cap & open book icon in white -->
+  <path d="M256 120 L400 196 L256 272 L112 196 Z" fill="#ffffff"/>
+  <polygon points="400,196 400,280 380,270 380,206" fill="#d1fae5"/>
+  <path d="M168 250 L256 296 L344 250 V310 C344 346 304 374 256 374 C208 374 168 346 168 310 Z" fill="#ffffff" opacity="0.95"/>
+  <circle cx="256" cy="420" r="16" fill="#34d399"/>
+</svg>
